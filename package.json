@@ -1,0 +1,20 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "This repository contains the code for my personal portfolio website, showcasing my skills, projects, and contact information. The website is hosted live at [Personal Portfolio](https://portfoliobyvineet.vercel.app/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
