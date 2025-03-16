@@ -1,15 +1,8 @@
 # Personal Portfolio
 
-This repository contains the code for my personal portfolio website, showcasing my skills, projects, and contact information. The website is hosted live at [Personal Portfolio](https://portfoliobyvineet.vercel.app/).
+This repository contains the code for my personal portfolio website, showcasing my skills, projects, and contact information. The website is hosted live at [Personal Portfolio]
 
 ---
-
-## Live Website
-
-Visit the portfolio live at: [https://portfoliobyvineet.vercel.app/](https://portfoliobyvineet.vercel.app/)
-
----
-
 ## Features
 
 - **Professional Design**: A clean and modern UI to highlight skills and achievements.
